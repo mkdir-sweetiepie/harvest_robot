@@ -1,0 +1,12 @@
+# ROS / colcon / catkin build artifacts
+build/
+install/
+log/
+devel/
+__pycache__/
+*.egg-info/
+# C++ / MSVC
+x64/
+Debug/
+*.o
+*.so.debug
