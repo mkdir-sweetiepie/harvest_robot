@@ -1,0 +1,26 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/hyeon/colcon_ws/build/yolo_segmentation",
+    "/home/hyeon/colcon_ws/install/yolo_segmentation/lib/python3.10/site-packages",
+    "/home/hyeon/colcon_ws/build/yolo_detection",
+    "/home/hyeon/colcon_ws/install/yolo_detection/lib/python3.10/site-packages",
+    "/home/hyeon/colcon_ws/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages",
+    "/home/hyeon/colcon_ws/install/kalibr_image_geometry_msgs/local/lib/python3.10/dist-packages",
+    "/home/hyeon/colcon_ws/install/image_recognition_msgs/local/lib/python3.10/dist-packages",
+    "/home/hyeon/colcon_ws/install/image_projection_msgs/local/lib/python3.10/dist-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/home/hyeon/colcon_ws/build/yolo_segmentation",
+    "/home/hyeon/colcon_ws/install/yolo_segmentation/lib/python3.10/site-packages",
+    "/home/hyeon/colcon_ws/build/yolo_detection",
+    "/home/hyeon/colcon_ws/install/yolo_detection/lib/python3.10/site-packages",
+    "/home/hyeon/colcon_ws/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages",
+    "/home/hyeon/colcon_ws/install/kalibr_image_geometry_msgs/local/lib/python3.10/dist-packages",
+    "/home/hyeon/colcon_ws/install/image_recognition_msgs/local/lib/python3.10/dist-packages",
+    "/home/hyeon/colcon_ws/install/image_projection_msgs/local/lib/python3.10/dist-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ]
+}

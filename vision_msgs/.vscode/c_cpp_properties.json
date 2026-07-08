@@ -1,0 +1,46 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hyeon/colcon_ws/install/serial/include/**",
+        "/home/hyeon/colcon_ws/install/realsense2_camera/include/**",
+        "/home/hyeon/colcon_ws/install/realsense2_camera_msgs/include/**",
+        "/home/hyeon/colcon_ws/install/kalibr_extended_camera_info_publisher/include/**",
+        "/home/hyeon/colcon_ws/install/image_projection/include/**",
+        "/home/hyeon/colcon_ws/install/kalibr_camera_loader/include/**",
+        "/home/hyeon/colcon_ws/install/kalibr_camera_model/include/**",
+        "/home/hyeon/colcon_ws/install/kalibr_image_geometry_msgs/include/**",
+        "/home/hyeon/colcon_ws/install/image_recognition_msgs/include/**",
+        "/home/hyeon/colcon_ws/install/image_projection_plugins/include/**",
+        "/home/hyeon/colcon_ws/install/image_projection_plugin_interface/include/**",
+        "/home/hyeon/colcon_ws/install/image_projection_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/hyeon/colcon_ws/src/crop_harvest_robot/include/**",
+        "/home/hyeon/colcon_ws/src/dual_fisheye/include/**",
+        "/home/hyeon/colcon_ws/src/hsv_detect/include/**",
+        "/home/hyeon/colcon_ws/src/image_projection/image_projection/include/**",
+        "/home/hyeon/colcon_ws/src/image_projection/image_projection_plugin_interface/include/**",
+        "/home/hyeon/colcon_ws/src/image_projection/image_projection_plugins/include/**",
+        "/home/hyeon/colcon_ws/src/image_recognition/yolo_detect/include/**",
+        "/home/hyeon/colcon_ws/src/kalibr_image_geometry/kalibr_camera_loader/include/**",
+        "/home/hyeon/colcon_ws/src/kalibr_image_geometry/kalibr_camera_model/include/**",
+        "/home/hyeon/colcon_ws/src/kalibr_image_geometry/kalibr_extended_camera_info_publisher/include/**",
+        "/home/hyeon/colcon_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/hyeon/colcon_ws/src/serial-ros2/include/**",
+        "/home/hyeon/colcon_ws/src/usb_camera/include/**",
+        "/home/hyeon/colcon_ws/src/vision_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
